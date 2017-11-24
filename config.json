@@ -1,0 +1,10 @@
+{
+        "OwnerID":"340275658456563712",
+        "Token":"MzU5MTEwMDY4OTk5ODE1MTY5.DPm5iw.IqiUxrNeWtyV8J1jSsCW1HSxWVY",
+        "startup_plugins":[
+            "test1",
+            "test2",
+            "test3"
+            ],
+        "Prefix":["--"]
+}
